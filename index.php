@@ -4,3 +4,4 @@ echo'<img src="mnr.jpg"width="700">';
 echo '<h1>Mahendranagar Kanchanpur !</h1>';
 echo '<h1>Siddharth Hotel!</h1>';
 ?>
+<h2>This is fantastic programming</h2>
